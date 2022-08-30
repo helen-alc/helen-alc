@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=helen-alc&show_icons=true&theme=city_lights&repo=github-readme-stats" />
 </a>
 
-<a href="https://github.com/helen-alc/convoychat">
+<a href="https://github.com/helen-alc/convoychat.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helen-alc&langs_count=8&theme=city_lights&show_icons=true" />
 </a>
 
